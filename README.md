@@ -27,10 +27,25 @@ meat-lover로 고기 맛집을 정말로 좋아하며 명함으로 정리하기 
 
 
 
+#### 십원집
+
+- 위치: 충청남도 천안시 동남구 신부동 463-5
+- 가격
+  - 연탄 초벌 삼겹살: 1만 1천원
+  - 연탄 파불고기: 1만 1천원
+  - 고추장 삼겹살: 1만 2천원
+- 특징
+  - 가격, 맛, 양 다 좋다. 특히 연탄 초벌 삼겹살이 정말 맛있다. 하지만 느끼할 수 있으니 조심하길 바란다.
+- 추천 메뉴
+  - 연탄 초벌 삼겹살
+
+
+
 ## 고기 굽기 혹은 고기 지식에 도움이 되는 영상
 
 - [그 놈의 마이야르 도대체 무엇인가?! (feat. 승우아빠)](https://www.youtube.com/watch?v=4LedZRQhLQc) -> [스테이크 영상 셀프 저격 영상(feat. 승우아빠)](https://www.youtube.com/watch?v=Iirrh_PqTUw)
 - [왕 초보도 고기 잘 굽는 방법](https://www.youtube.com/watch?v=gWlTxfSsRvg)
+- [고기 등급의 비밀](https://www.youtube.com/watch?v=YpH8dihC8bY)
 
 
 
